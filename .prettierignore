@@ -1,0 +1,5 @@
+.next
+.vscode
+node_modules
+*.md
+pnpm-lock.yaml

@@ -1,0 +1,117 @@
+{
+  "home": {
+    "heroTitle": {
+      "art": "The art of",
+      "handcrafted": "handcrafted eyewear."
+    },
+    "heroDescription": "Our eyewear is unique style and uncompromising quality based on materials from the world's best manufacturers.",
+    "shopNow": "Shop now",
+    "navbar": {
+      "products": "products",
+      "aboutBrand": "About Brand",
+      "contact": "contact",
+      "logout": "Logout",
+      "login": "Login",
+      "women": "Women",
+      "men": "Men",
+      "company": "Company"
+    },
+    "flyoutMenu": {
+      "newArrivals": "New arrivals",
+      "bestsellers": "Bestsellers",
+      "shopNow": "Shop now",
+      "openMenu": "open menu"
+    },
+    "pageTitle": "Handcrafted Eyewear - Brand Eyewear",
+    "pageDescription": "Handcrafted Eyewear created with passion in ...",
+    "productLines": {
+      "title": "Discover our main product lines"
+    }
+  },
+  "account": {
+    "pageTitle": "Account"
+  },
+  "global": {
+    "navbar": {
+      "english": "English",
+      "polish": "Polish"
+    }
+  },
+  "login": {
+    "form": {
+      "title": "Sign in to your account",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "noAccount": "Don’t have an account yet?",
+      "singIn": "Sign in",
+      "rememberMe": "Remember me",
+      "signUp": "Sign up"
+    }
+  },
+  "register": {
+    "pageTitle": "Create a new account",
+    "form": {
+      "createAccount": "Create an account",
+      "emailLabel": "Email",
+      "companyLabel": "Company name",
+      "passwordLabel": "Your password",
+      "confirmPassword": "Confirm password",
+      "submit": "Create an account",
+      "acceptTerms": "I accept the",
+      "termsAndConditions": "Terms and Conditions",
+      "alreadyHaveAccount": "Already have account ?",
+      "loginHere": "Login here"
+    }
+  },
+  "footer": {
+    "brandCopyright": "© 2023 Brand Eyewear™.",
+    "allRights": "All Rights Reserved.",
+    "followUs": "Follow us",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsAndConditions": "Terms & conditions"
+  },
+  "products": {
+    "pageTitle": "Products",
+    "pageDescription": "Our products",
+    "pageHeading": "Products"
+  },
+  "contact": {
+    "pageTitle": "Contact us",
+    "mainTitle": "Contact us",
+    "getInTouch": "Get in touch with us",
+    "firstName": "first name",
+    "lastName": "last name",
+    "company": "company",
+    "email": "email",
+    "message": "message",
+    "privacyConsent": {
+      "firstPart": "By selecting this, you agree to our",
+      "lastPart": "privacy policy"
+    },
+    "submit": "send message",
+    "requiredError": "Required field",
+    "incorrectEmail": "Enter valid email",
+    "emailSent": {
+      "failure": "Failed to send submit, please submit again",
+      "success": "Submitted successfully, we will respond shortly"
+    }
+  },
+  "core": {
+    "dismiss": "Dismiss"
+  },
+  "productDetails": {
+    "productInformation": "Product information",
+    "inStockAndReadyToShip": "In stock and ready to ship",
+    "addToCart": "Add to cart"
+  },
+  "notFoundPage": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist.",
+    "backToHome": "Back to home page"
+  },
+  "cart": {
+    "title": "shopping cart",
+    "itemsInCart": "items in your shopping cart"
+  }
+}

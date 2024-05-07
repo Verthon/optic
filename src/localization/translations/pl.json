@@ -1,0 +1,117 @@
+{
+  "home": {
+    "heroTitle": {
+      "art": "Sztuka",
+      "handcrafted": "ręcznego wykonania okularów."
+    },
+    "heroDescription": "Nasze okulary to niepowtarzalny styl i bezkompromisowa jakość oparta na materiałach od najlepszych światowych producentów.",
+    "shopNow": "Sprawdz ofertę",
+    "navbar": {
+      "products": "produkty",
+      "aboutBrand": "o nas",
+      "contact": "kontakt",
+      "logout": "Wyloguj",
+      "login": "Logowanie",
+      "women": "Dla kobiet",
+      "men": "Dla mężczyzn",
+      "company": "O Nas"
+    },
+    "flyoutMenu": {
+      "newArrivals": "Nowości",
+      "bestsellers": "Bestsellery",
+      "shopNow": "Sprawdź ofertę",
+      "openMenu": "otwórz menu"
+    },
+    "pageTitle": "Ręcznie wytwarzane okulary - Brand Eyewear",
+    "pageDescription": "Ręcznie wytwarzane okulary, produkowane w ...",
+    "productLines": {
+      "title": "Odkryj nasze główne linie produktów"
+    }
+  },
+  "account": {
+    "pageTitle": "Konto"
+  },
+  "global": {
+    "navbar": {
+      "english": "Angielski",
+      "polish": "Polski"
+    }
+  },
+  "login": {
+    "form": {
+      "title": "Zaloguj się",
+      "emailLabel": "Twój email",
+      "passwordLabel": "Hasło",
+      "noAccount": "Nie posiadasz konta ?",
+      "singIn": "Zaloguj",
+      "rememberMe": "Zapamiętaj mnie",
+      "signUp": "Zarejestruj się"
+    }
+  },
+  "register": {
+    "form": {
+      "pageTitle": "Utwórz nowe konto",
+      "createAccount": "Utwórz konto",
+      "emailLabel": "Email",
+      "companyLabel": "Nazwa firmy",
+      "passwordLabel": "Hasło",
+      "confirmPassword": "Potwierdź hasło",
+      "submit": "Utwórz konto",
+      "acceptTerms": "Akceptuję warunki",
+      "termsAndConditions": "Regulaminu",
+      "alreadyHaveAccount": "Posiadasz juz konto ?",
+      "loginHere": "Zaloguj się"
+    }
+  },
+  "footer": {
+    "brandCopyright": "© 2023 Brand Eyewear™.",
+    "allRights": "Wszelkie prawa zastrzezone.",
+    "followUs": "Śledź nas",
+    "legal": "Noty prawne",
+    "privacyPolicy": "Polityka prywatności",
+    "termsAndConditions": "Warunki i postanowienia"
+  },
+  "products": {
+    "pageTitle": "Produkty",
+    "pageDescription": "Nasze produkty",
+    "pageHeading": "Produkty"
+  },
+  "contact": {
+    "pageTitle": "Kontakt",
+    "mainTitle": "Kontakt",
+    "getInTouch": "skontaktuj się z nami",
+    "firstName": "imię",
+    "lastName": "nazwisko",
+    "company": "nazwa firmy",
+    "email": "email",
+    "message": "wiadomość",
+    "privacyConsent": {
+      "firstPart": "Wybierając tę opcję, wyrażasz zgodę na naszą",
+      "lastPart": "politykę prywatności"
+    },
+    "submit": "wyślij wiadomość",
+    "requiredError": "Pole wymagane",
+    "incorrectEmail": "Proszę wpisać poprawny email",
+    "emailSent": {
+      "failure": "Nie udało się wysłać wiadomości, sprobój ponownie",
+      "success": "Wysłano pomyślnie, odpowiemy wkrótce"
+    }
+  },
+  "notFoundPage": {
+    "title": "Nie znaleziono strony",
+    "description": "Strona, której szukasz, nie istnieje.",
+    "backToHome": "Wróć do strony głównej"
+  },
+  "cart": {
+    "title": "koszyk",
+    "itemsInCart": "przedmioty w Twoim koszyku"
+  },
+  "core": {
+    "dismiss": "Zamknij"
+  },
+  "productDetails": {
+    "productInformation": "Informacje o produktu",
+    "inStockAndReadyToShip": "Produkt dostępny, gotowy do wysyłki",
+    "addToCart": "Dodaj do koszyka"
+  }
+}
